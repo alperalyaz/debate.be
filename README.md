@@ -129,6 +129,7 @@ src/
     gamification.ts  Ratings, badges, season results
   components/        SetupScreen, HeroStage, ChatStream, RatingMeter, ModeratorBar, ...
   App.tsx            State machine + turn loop + look-ahead pipeline
+android/             Capacitor Android app wrapper (see MOBILE.md)
 ```
 
 ## Disclaimer
